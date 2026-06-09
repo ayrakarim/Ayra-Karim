@@ -8,4 +8,4 @@ I am a detail-oriented professional combining a strong background in clinical op
 ### What I'm Working On Right Now
 * Building a Python data analysis project focused on hospital patient admissions and operational metrics.
 * Uploading my first data cleaning scripts to this portfolio.
-* **Let's Connect!** https://www.linkedin.com/in/ayrakarim/ | arya6013@gmail.com
+* **Let's Connect!** https://www.linkedin.com/in/ayrakarim/ | arya6013@gmail.com 
